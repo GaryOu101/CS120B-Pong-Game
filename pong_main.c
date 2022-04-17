@@ -5,7 +5,6 @@
  *	Exercise Description: [optional - include for your own benefit]
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
- *	Demo Link: https://drive.google.com/file/d/1g9F9bj6wXjSpcoWAOYkGJ95MrI7AW1fK/view?usp=sharing
  *
  *
  */
